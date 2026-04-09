@@ -1,5 +1,12 @@
 # 🛠️ Demo Project: Git Crash Course — Hands-On Walkthrough
 
+<div align="center">
+  <h3>Git Tutorial for Beginners: Learn Git in 1 Hour (2026)</h3>
+  <a href="https://www.youtube.com/watch?v=XLJuoOBm7Go">
+    <img src="https://img.youtube.com/vi/XLJuoOBm7Go/maxresdefault.jpg" alt="Watch the Git Tutorial for Beginners" style="width:100%; max-width:600px;">
+  </a>
+  <p><i>Click the image to master Git and GitHub workflow on YouTube</i></p>
+</div>
 This demo walks through every command shown in the video, step by step.
 Clone this repo or follow along in a fresh terminal.
 
